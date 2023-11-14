@@ -4,11 +4,9 @@
 
 - funzione "palindroma"
     - ciclo for lughezza parola (avanza dalla prima lettera)
-        - ciclo for lughezza parola (avanza dall'ultima lettera)
-            - se la prima lettera è uguale al ultima
-                - è palindroma
-            - altrimenti
-                - non è palindroma
+        - se la prima lettera è diversa dall'ultima - la variabile contatore del for
+            - non è palindroma
+        - è palindroma
 - prompt per la parola
 - alert contenente il risultato della funzione "palindroma"
 
